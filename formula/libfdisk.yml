@@ -1,0 +1,5 @@
+summary: Library for manipulating disk partition tables
+webpage: https://github.com/util-linux/util-linux
+version: 2.40.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libfdisk-2.40.2-android-30-arm64-v8a.release.tar.xz
+bin-sha: 83930a70a939767a9ada1ffec55ab5539460d9b08a4f3d301e73c048f9af02be

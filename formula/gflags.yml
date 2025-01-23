@@ -1,0 +1,5 @@
+summary: A C++ library for processing command-line flags
+webpage: https://gflags.github.io/gflags
+version: 2.2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/gflags-2.2.2-android-30-arm64-v8a.release.tar.xz
+bin-sha: ecbdb72a6f7b7cd0ce024d985943b69491afed609e6965b421883371ecaf59b3

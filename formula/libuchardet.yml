@@ -1,0 +1,5 @@
+summary: Encoding detector library
+webpage: https://www.freedesktop.org/wiki/Software/uchardet/
+version: 0.0.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libuchardet-0.0.8-android-30-arm64-v8a.release.tar.xz
+bin-sha: 9b6e35db060085b8c51473ebcc5c9f79a628dd27df9933d4c0309afe074bc24a

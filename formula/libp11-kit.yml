@@ -1,0 +1,5 @@
+summary: Library to load and enumerate PKCS#11 modules
+webpage: https://p11-glue.freedesktop.org
+version: 0.25.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libp11-kit-0.25.5-android-30-arm64-v8a.release.tar.xz
+bin-sha: 42f12068ee4c1d3ba8eb7626a59f7325b5bad03a24852a44fd4490347e67a3fe

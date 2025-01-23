@@ -1,0 +1,5 @@
+summary: Cross-platform make
+webpage: https://www.cmake.org/
+version: 3.30.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/cmake-3.30.3-android-30-arm64-v8a.release.tar.xz
+bin-sha: 78c9098a1887310597c8cd947e0fc3cc95795b7fa74e1e05f1d18dd4de46cbbb

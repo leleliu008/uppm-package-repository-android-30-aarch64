@@ -1,0 +1,5 @@
+summary: Wrapper around libsass that helps to create command-line apps
+webpage: https://github.com/sass/sassc
+version: 3.6.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/sassc-3.6.2-android-30-arm64-v8a.release.tar.xz
+bin-sha: 1479c86c6f6d9c2b5a8fbc5adb5c2ed49637a939d8aae73f432769d7fa3159d8

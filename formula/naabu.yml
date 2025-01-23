@@ -1,0 +1,5 @@
+summary: Fast port scanner
+webpage: https://github.com/projectdiscovery/naabu
+version: 2.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/naabu-2.3.1-android-30-arm64-v8a.release.tar.xz
+bin-sha: 27ca356aee70b237bf97e8861dd52d59b2fd9d62999685610b8f6568225bd57c

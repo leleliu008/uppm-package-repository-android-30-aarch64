@@ -1,0 +1,5 @@
+summary: I/O abstraction library for dealing with structured file formats
+webpage: https://gitlab.gnome.org/GNOME/libgsf
+version: 1.14.52
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libgsf-1.14.52-android-30-arm64-v8a.release.tar.xz
+bin-sha: 72ecb7f97572f0a1511660932337807b421f61d551bceac0eeebf26dbc6efc2e

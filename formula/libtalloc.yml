@@ -1,0 +1,5 @@
+summary: Hierarchical, reference-counted memory pool with destructors
+webpage: https://talloc.samba.org/
+version: 2.4.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libtalloc-2.4.2-android-30-arm64-v8a.release.tar.xz
+bin-sha: 582bf586f3538aa083c03066e225ec0127d52d624844531ce6f4e6cf114e04cf

@@ -1,0 +1,5 @@
+summary: Linux-native asynchronous I/O access library
+webpage: https://pagure.io/libaio
+version: 0.3.113
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libaio-0.3.113-android-30-arm64-v8a.release.tar.xz
+bin-sha: 66b07883570aabe3aedf0bbdeafb5cb0d17a24eef1641ff7591fcb4077773c31

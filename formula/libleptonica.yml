@@ -1,0 +1,5 @@
+summary: Image processing and image analysis library
+webpage: http://www.leptonica.org/
+version: 1.84.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libleptonica-1.84.1-android-30-arm64-v8a.release.tar.xz
+bin-sha: bcbb9d7a6e427f656c161c7e1a47df203ab71eabe7e41200d1f0b0d9db467ddf

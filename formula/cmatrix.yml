@@ -1,0 +1,5 @@
+summary: A command-line tool for producing a Matrix-style animation
+webpage: https://github.com/abishekvashok/cmatrix
+version: 2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/cmatrix-2.0-android-30-arm64-v8a.release.tar.xz
+bin-sha: b3cbca0fb56ba3b2f649db6a48b77730db9d3db57c89de68c67aeac90bdc0915

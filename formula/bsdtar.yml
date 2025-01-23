@@ -1,0 +1,5 @@
+summary: BSD tar
+webpage: https://www.libarchive.org/
+version: 3.7.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/bsdtar-3.7.7-android-30-arm64-v8a.release.tar.xz
+bin-sha: be63dd8fd71a63ba7d523997998b88af17a98bdea0f34fedd78015cb74ad7371

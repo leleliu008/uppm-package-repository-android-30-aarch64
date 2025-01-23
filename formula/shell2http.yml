@@ -1,0 +1,5 @@
+summary: A HTTP server to execute shell commands
+webpage: https://github.com/msoap/shell2http
+version: 1.17.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/shell2http-1.17.0-android-30-arm64-v8a.release.tar.xz
+bin-sha: e57923c7a93ea5f64b30ce205b5e0b1cfcb18bde8f788a1a96820137b7b722be

@@ -1,0 +1,5 @@
+summary: A modern diagram scripting language that turns text to diagrams
+webpage: https://github.com/terrastruct/d2
+version: 0.6.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/d2-0.6.7-android-30-arm64-v8a.release.tar.xz
+bin-sha: 5523157af43e513b7aa57fff2177c9299ebfbbdb406aa0d08d1c8849e487e6c1

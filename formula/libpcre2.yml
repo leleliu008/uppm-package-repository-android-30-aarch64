@@ -1,0 +1,5 @@
+summary: Perl compatible regular expressions library with a new API
+webpage: https://www.pcre.org/
+version: 10.43
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libpcre2-10.43-android-30-arm64-v8a.release.tar.xz
+bin-sha: cad76ebff3d4c17f58ebf6e8658e517a21aeba21ed0a4408bc6344277a5dbf18

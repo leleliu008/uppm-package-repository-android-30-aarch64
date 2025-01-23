@@ -1,0 +1,5 @@
+summary: A cross-platform build utility based on Lua
+webpage: https://xmake.io/
+version: 2.9.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/xmake-2.9.7-android-30-arm64-v8a.release.tar.xz
+bin-sha: 5f8c9b62babcec21ebb1bce11a6c030b6169f1eaf1f9ec8b25d88d5a37051971

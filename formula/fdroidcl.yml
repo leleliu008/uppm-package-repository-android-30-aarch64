@@ -1,0 +1,5 @@
+summary: F-Droid client
+webpage: https://github.com/mvdan/fdroidcl
+version: 0.7.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/fdroidcl-0.7.0-android-30-arm64-v8a.release.tar.xz
+bin-sha: 7afae8424e5bb31c87162a6d7f54eba09af81e64031f12737aee36af920a6f0e

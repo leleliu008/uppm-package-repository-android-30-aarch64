@@ -1,0 +1,5 @@
+summary: A collection of tools for JPEG-2000 image manipulation
+webpage: https://www.openjpeg.org/
+version: 2.5.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/openjpeg-2.5.2-android-30-arm64-v8a.release.tar.xz
+bin-sha: 2e9cf08e5e1fbab0d206bf0095ba283b9f97c51504cc097d998fca0e3b87bb2d

@@ -1,0 +1,5 @@
+summary: A massively parallel (multi-threaded) combined implementation of the tar archiver and the lzip compressor
+webpage: https://www.nongnu.org/lzip/tarlz.html
+version: 0.25
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/tarlz-0.25-android-30-arm64-v8a.release.tar.xz
+bin-sha: 94b3f73495cdebb33f6806252c0129b3df31b295724e7bbaf8a5663e76e7a89f

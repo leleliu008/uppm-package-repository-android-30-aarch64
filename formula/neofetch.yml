@@ -1,0 +1,5 @@
+summary: Fast, highly customisable system info script
+webpage: https://github.com/dylanaraps/neofetch
+version: 7.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/neofetch-7.1.0-android-aarch64.release.tar.xz
+bin-sha: 7a1513e7f9f76ca888c4dc6c2b7b801e56ec0d97b8d947a1e357de173ccceff3

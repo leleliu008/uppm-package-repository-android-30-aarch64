@@ -1,0 +1,5 @@
+summary: A command-line tool to render your source code into a beautiful image
+webpage: https://github.com/Aloxaf/silicon
+version: 0.5.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/silicon-0.5.2-android-30-arm64-v8a.release.tar.xz
+bin-sha: 2334245a98e6a3435b9176c61e8401a1c5b809dfe5109145238fb922c6e618b2

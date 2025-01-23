@@ -1,0 +1,5 @@
+summary: Embeddable Javascript interpreter
+webpage: https://www.mujs.com/
+version: 1.3.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libmujs-1.3.4-android-30-arm64-v8a.release.tar.xz
+bin-sha: 744fcbc15c4e731c131c533ee7692cfb7c3769cfb4ad20bf366be09ab861dd46

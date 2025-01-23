@@ -1,0 +1,5 @@
+summary: A free, general-purpose data compression with a high compression ratio
+webpage: https://tukaani.org/xz
+version: 5.4.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/xz-5.4.6-android-30-arm64-v8a.release.tar.xz
+bin-sha: 59453caf00025a1d941ff574a749a4bba9f7548579b626f01cab29894ad71b76

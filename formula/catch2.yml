@@ -1,0 +1,5 @@
+summary: Modern, C++-native, header-only, test framework
+webpage: https://github.com/catchorg/Catch2
+version: 3.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/catch2-3.6.0-android-30-arm64-v8a.release.tar.xz
+bin-sha: 1469821fffca0701e771dc9ab1d192da6fdf076de775c65d27945f9d3b9ab6be

@@ -1,0 +1,5 @@
+summary: C XSLT library for GNOME
+webpage: http://xmlsoft.org/XSLT
+version: 1.1.41
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libxslt-1.1.41-android-30-arm64-v8a.release.tar.xz
+bin-sha: a52c0018600f33a16f83f868128a6f24b4973972779e7bc44cbd25d772c132b5

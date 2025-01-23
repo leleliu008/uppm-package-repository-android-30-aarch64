@@ -1,0 +1,5 @@
+summary: Compact Disc Input and Control Library
+webpage: https://www.gnu.org/software/libcdio
+version: 2.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libcdio-2.1.0-android-30-arm64-v8a.release.tar.xz
+bin-sha: 9a727b9b17ec8b34d75dd94227007862edd84819502435b55feb304ef79f02f0

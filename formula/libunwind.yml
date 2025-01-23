@@ -1,0 +1,5 @@
+summary: A portable and efficient C library for determining the call-chain of a program
+webpage: https://www.nongnu.org/libunwind
+version: 1.7.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libunwind-1.7.2-android-30-arm64-v8a.release.tar.xz
+bin-sha: be27c6439aa0ea3a9abad27c98c41642985720197f17ea775bd9f33ec996a237

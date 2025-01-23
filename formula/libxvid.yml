@@ -1,0 +1,5 @@
+summary: A high-performance, high-quality MPEG-4 video library
+webpage: https://www.xvid.com
+version: 1.3.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libxvid-1.3.7-android-30-arm64-v8a.release.tar.xz
+bin-sha: 7fc8725c94604b5fedca863efcae0821df9c2fcf59af229bbaac3a6f940d827b

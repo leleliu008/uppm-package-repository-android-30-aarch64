@@ -1,0 +1,5 @@
+summary: A generic-purpose lossless compression algorithm by Google
+webpage: https://github.com/google/brotli
+version: 1.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/brotli-1.1.0-android-30-arm64-v8a.release.tar.xz
+bin-sha: 30b94c88a403b76edfd5f573edd98c4629aea85e2d224c0c725cc88a97387f0a

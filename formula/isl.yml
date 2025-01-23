@@ -1,0 +1,5 @@
+summary: Integer Set Library for the polyhedral model
+webpage: https://isl.gforge.inria.fr
+version: 0.26
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/isl-0.26-android-30-arm64-v8a.release.tar.xz
+bin-sha: 04af619214261c3057dbd419d581042ebaa4c2cbc4cd390d1457d4bf823c12e8

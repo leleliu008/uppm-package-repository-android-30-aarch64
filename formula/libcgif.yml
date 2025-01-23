@@ -1,0 +1,5 @@
+summary: A fast and lightweight GIF encoder written in C
+webpage: https://github.com/dloebl/cgif
+version: V0.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/libcgif-V0.3.0-android-30-arm64-v8a.release.tar.xz
+bin-sha: 5b785c3664ce1d25ca0cfe826ba835d31f93687cffcab698a42f10ac30c00e84

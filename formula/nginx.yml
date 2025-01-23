@@ -1,0 +1,5 @@
+summary: HTTP(S) server and reverse proxy, and IMAP/POP3 proxy server
+webpage: https://nginx.org
+version: 1.27.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/nginx-1.27.0-android-30-arm64-v8a.release.tar.xz
+bin-sha: 1087745815a9dbdb9ecafa194218a866461d2238aac7d230cdf66226d199e306

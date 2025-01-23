@@ -1,0 +1,5 @@
+summary: A collections of command-line utilities provided by libxml2
+webpage: http://xmlsoft.org
+version: 2.12.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/xmlutils-2.12.8-android-30-arm64-v8a.release.tar.xz
+bin-sha: c3e37edee2d47097b473e0206cf1fc93f5b2768afa18ffebc1fed8748e32513b

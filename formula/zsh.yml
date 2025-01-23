@@ -1,0 +1,5 @@
+summary: Z Shell
+webpage: https://www.zsh.org
+version: 5.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-30-aarch64/releases/download/2025.01.23/zsh-5.9-android-30-arm64-v8a.release.tar.xz
+bin-sha: 5b8ba60e7a89e2e94b390a11d27830b16d99971b7a3530c50c5db4f3c1134818
